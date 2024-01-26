@@ -4,10 +4,6 @@
   "private": true,
   "author": "Bia Development Team",
   "description": "Bia Platform",
-  "engines": {
-    "node": "14 || 15 || 16",
-    "npm": ">6"
-  },
   "dependencies": {
     "@aldabil/react-scheduler": "^2.5.13",
     "@emotion/cache": "11.7.1",
