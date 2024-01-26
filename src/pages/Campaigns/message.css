@@ -1,0 +1,63 @@
+.sendbird-theme--light .sendbird-channel-header, .sendbird-theme--light .sendbird-channel-preview, .sendbird-theme--light .sendbird-channel-list {
+    background-color: #1C1F21;
+}
+
+.sendbird-theme--light .sendbird-channel-preview {
+    border-bottom: 1px solid #3b3d40;
+}
+
+.sendbird-theme--light .sendbird-label--color-onbackground-1, .sendbird-theme--light .sendbird-label--color-onbackground-2, .sendbird-theme--light .sendbird-label--color-onbackground-3 {
+    color: #fff;
+}
+
+.sendbird-theme--light .sendbird-channel-preview--active {
+    background-color: #BBDCD2;
+    border-left: solid 4px #BBDCD2;
+}
+
+.sendbird-theme--light .sendbird-channel-preview--active .sendbird-channel-preview__content__upper__header__channel-name {
+    color: #111315;
+}
+
+.sendbird-theme--light .sendbird-channel-preview--active .sendbird-label--color-onbackground-3, .sendbird-theme--light .sendbird-channel-preview--active .sendbird-label--color-onbackground-1, .sendbird-theme--light .sendbird-channel-preview--active .sendbird-label--color-onbackground-2 {
+    color: #111315;
+}
+
+.sendbird-theme--light .sendbird-badge {
+    background-color: #BBDCD2;
+}
+
+.sendbird-theme--light .sendbird-badge .sendbird-label--color-oncontent-1 {
+    color: #000;
+}
+
+.sendbird-iconbutton {
+    color: #BBDCD2;
+}
+
+.sendbird-theme--light .sendbird-icon-color--primary [class*='fill'] {
+    fill: #BBDCD2;
+}
+
+.sendbird-theme--light .sendbird-chat-header, .sendbird-theme--light .sendbird-conversation {
+    background-color: #1C1F21;
+    border: 1px solid #3b3d40;
+}
+
+.sendbird-theme--light .sendbird-text-message-item-body.outgoing {
+    background-color: #BBDCD2;
+}
+
+.sendbird-theme--light .sendbird-text-message-item-body.incoming, .sendbird-theme--light .sendbird-dropdown__menu {
+    background-color: #000;
+}
+
+.sendbird-theme--light .sendbird-app__wrap .sendbird-app__channellist-wrap {
+    border-top: 1px solid #3b3d40;
+    border-left: 1px solid #3b3d40;
+    border-bottom: 1px solid #3b3d40;
+}
+
+.sendbird-theme--light .sendbird-channel-preview:hover {
+    background-color: #3b3d40;
+}

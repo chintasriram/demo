@@ -1,0 +1,29 @@
+.social .instance-node {
+  height: 40px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 40px !important;
+}
+
+.social {
+  height: 20px;
+  width: 20px;
+}
+
+.social .group {
+  height: 40px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.social.Instagram {
+  background-image: url(../../assets/images/img/union-14.svg);
+  background-size: 100% 100%;
+}
+
+.social.people {
+  position: relative;
+}

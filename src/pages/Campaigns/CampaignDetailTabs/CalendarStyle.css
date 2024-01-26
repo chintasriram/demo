@@ -1,0 +1,42 @@
+.rbc-calendar {
+    border-top: 1px solid #3B3D40;
+    border-left: 1px solid #3B3D40;
+    border-right: 1px solid #3B3D40;
+    padding-top: 15px;
+    background: #1C1F21;
+}
+.rbc-month-view {
+    border: 1px solid #3B3D40;
+    background: #1C1F21;
+}
+
+.rbc-header {
+    border-bottom: 0px;
+    text-align: left;
+}
+
+.rbc-header + .rbc-header {
+    border-left: 1px solid #3B3D40;
+}
+
+.rbc-day-bg + .rbc-day-bg {
+    border-left: 1px solid #3B3D40;
+    background: #1C1F21;
+}
+
+.rbc-month-row + .rbc-month-row {
+    border-top: 1px solid #3B3D40;
+    background: #1C1F21;
+}
+
+.rbc-today {
+    background-color: #2C3334;
+}
+
+button.rbc-button-link {
+    background: #1C1F21;
+}
+
+.rbc-current button.rbc-button-link {
+    background: #2C3334;
+}
