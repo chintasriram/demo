@@ -5,8 +5,7 @@
   "author": "Bia Development Team",
   "description": "Bia Platform",
   "engines": {
-    "node": "14 || 15 || 16",
-    "npm": ">=6"
+    "node": "18.x || 20.x"
   },
   "dependencies": {
     "@aldabil/react-scheduler": "^2.5.13",
