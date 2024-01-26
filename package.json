@@ -6,7 +6,7 @@
   "description": "Bia Platform",
   "engines": {
     "node": "14 || 15 || 16",
-    "npm": ">=6"
+    "npm": ">6"
   },
   "dependencies": {
     "@aldabil/react-scheduler": "^2.5.13",
